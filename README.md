@@ -1,5 +1,5 @@
 <body style="background-color:darkblue;">
-<h1>NOTICE! This is atemporary location! Soon to be at ucprogramming.com</h1>
+<h1>NOTICE! This is a temporary location! Soon to be at ucprogramming.com</h1>
 <h1>Welcome to UCode programming</h1>
 <img src="https://raw.githubusercontent.com/Mrpi314tech/ucprogramming/main/UCprogramming.png" alt="UCprogramming logo"
 width=250>
